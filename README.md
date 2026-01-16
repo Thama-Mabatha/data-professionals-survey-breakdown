@@ -5,7 +5,12 @@ This Power BI dashboard visualizes responses from data professionals to explore 
 It provides an interactive overview of the global data community and highlights how professionals feel about their roles, pay, and work-life balance.
 
 ---
+## 🖼️ Dashboard Preview
 
+<img width="1716" height="779" alt="image" src="https://github.com/user-attachments/assets/996551d5-191c-4c93-821c-1ec64b1ecd67" />
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7411213747672981504?compact=1" height="399" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+---
 ## 🧠 Project Overview
 
 The dashboard summarizes:
@@ -68,12 +73,7 @@ You can view the live dashboard here:
 
 ---
 
-## 🖼️ Dashboard Preview
 
-<img width="1716" height="779" alt="image" src="https://github.com/user-attachments/assets/996551d5-191c-4c93-821c-1ec64b1ecd67" />
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7411213747672981504?compact=1" height="399" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-
----
 
 ## 🎓 Learning Outcomes
 
