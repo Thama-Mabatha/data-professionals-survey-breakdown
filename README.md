@@ -65,12 +65,13 @@ The dataset includes:
 You can view the live dashboard here:  
 👉 [Power BI Report Link](https://app.powerbi.com/groups/me/reports/82cc28ae-d023-479d-8213-bcfbc92caa57?pbi_source=desktop)
 
+
 ---
 
 ## 🖼️ Dashboard Preview
 
 <img width="1716" height="779" alt="image" src="https://github.com/user-attachments/assets/996551d5-191c-4c93-821c-1ec64b1ecd67" />
-
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7411213747672981504?compact=1" height="399" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 ---
 
