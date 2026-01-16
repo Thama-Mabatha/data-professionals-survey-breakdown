@@ -7,10 +7,10 @@ It provides an interactive overview of the global data community and highlights 
 ---
 ## 🖼️ Dashboard Preview
 
-<img width="1716" height="779" alt="image" src="https://github.com/user-attachments/assets/996551d5-191c-4c93-821c-1ec64b1ecd67" />
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7411213747672981504?compact=1" height="399" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+![Dashboard Preview](https://github.com/user-attachments/assets/996551d5-191c-4c93-821c-1ec64b1ecd67)
 
----
+**Interactive dashboard:** [View on LinkedIn](https://www.linkedin.com/feed/update/urn:li:ugcPost:7411213747672981504)
+
 ## 🧠 Project Overview
 
 The dashboard summarizes:
